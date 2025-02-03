@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.8.0](https://github.com/Alwatr/alwatr/compare/v3.7.0...v3.8.0) (2025-02-03)
+
+### Features
+
+* **deps-dev:** bump the dependencies group across 1 directory with 10 updates ([eb7a876](https://github.com/Alwatr/alwatr/commit/eb7a87643ec2fa53fb5ff609d487b8ad821ff04c)) by @dependabot[bot]
+* **deps:** bump the alwatr group across 1 directory with 5 updates ([aebe447](https://github.com/Alwatr/alwatr/commit/aebe447fce86d6b18d98fad2f89232962dcdaad5)) by @dependabot[bot]
+
 ## [3.7.0](https://github.com/Alwatr/alwatr/compare/v3.6.0...v3.7.0) (2024-11-09)
 
 ### Features
