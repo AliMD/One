@@ -98,15 +98,15 @@
   },
   "dependencies": {
     "@alwatr/flux": "^4.0.2",
-    "@alwatr/nanolib": "^5.2.1",
+    "@alwatr/nanolib": "^5.3.1",
     "@alwatr/nanotron": "^4.8.0",
-    "@alwatr/nitrobase": "^7.5.0"
+    "@alwatr/nitrobase": "^7.5.7"
   },
   "devDependencies": {
-    "@alwatr/nano-build": "^5.0.0",
+    "@alwatr/nano-build": "^5.3.0",
     "@alwatr/prettier-config": "^5.0.0",
     "@alwatr/tsconfig-base": "^5.0.0",
-    "@alwatr/type-helper": "^5.0.0",
+    "@alwatr/type-helper": "^5.3.0",
     "typescript": "^5.6.3"
   }
 }

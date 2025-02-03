@@ -36,7 +36,7 @@
     "publish": "lerna publish from-package"
   },
   "devDependencies": {
-    "@alwatr/eslint-config": "^5.0.0",
+    "@alwatr/eslint-config": "^5.3.0",
     "@alwatr/prettier-config": "^5.0.0",
     "@alwatr/tsconfig-base": "^5.0.0",
     "@lerna-lite/changed": "^3.10.0",
