@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.9.0](https://github.com/Alwatr/alwatr/compare/v3.8.0...v3.9.0) (2025-02-18)
+
+### Features
+
+* **deps-dev:** bump prettier in the dependencies group ([214332e](https://github.com/Alwatr/alwatr/commit/214332e018984db15ed2f182dc12cafee76cf17a)) by @dependabot[bot]
+* **deps:** bump @octokit/plugin-paginate-rest from 11.4.0 to 11.4.2 ([8a51dff](https://github.com/Alwatr/alwatr/commit/8a51dff2bd8f73323e0986a095f9381391bb826c)) by @dependabot[bot]
+* **deps:** bump @octokit/request from 9.2.0 to 9.2.1 ([e9bbe5c](https://github.com/Alwatr/alwatr/commit/e9bbe5cd6d1ad1c49e6a593891db814b072978b6)) by @dependabot[bot]
+* **deps:** bump dependencies for [@alwatr](https://github.com/alwatr) packages to latest versions ([f213918](https://github.com/Alwatr/alwatr/commit/f213918fa4160d3c03834759a58b2ea9d7916f29)) by @
+
 ## [3.8.0](https://github.com/Alwatr/alwatr/compare/v3.7.0...v3.8.0) (2025-02-03)
 
 ### Features

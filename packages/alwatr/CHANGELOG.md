@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.9.0](https://github.com/Alwatr/alwatr/compare/v3.8.0...v3.9.0) (2025-02-18)
+
+### Features
+
+* **deps:** bump dependencies for [@alwatr](https://github.com/alwatr) packages to latest versions ([f213918](https://github.com/Alwatr/alwatr/commit/f213918fa4160d3c03834759a58b2ea9d7916f29)) by @
+
 ## [3.8.0](https://github.com/Alwatr/alwatr/compare/v3.7.0...v3.8.0) (2025-02-03)
 
 ### Features
