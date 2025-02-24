@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/Alwatr/alwatr/compare/v3.9.0...v4.0.0) (2025-02-24)
+
+### ⚠ BREAKING CHANGES
+
+* all nitrobase files need to migration, check the release note: https://github.com/Alwatr/nitrobase/releases/tag/v8.0.0
+
+### Features
+
+* update @alwatr/nitrobase to version 8.0.0 ([5ecf592](https://github.com/Alwatr/alwatr/commit/5ecf5925ae05c8d7ed626bf550742f27299e8771)) by @
+
 ## [3.9.0](https://github.com/Alwatr/alwatr/compare/v3.8.0...v3.9.0) (2025-02-18)
 
 ### Features
