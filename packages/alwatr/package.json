@@ -58,7 +58,7 @@
       "require": "./dist/nanotron.cjs"
     }
   },
-  "license": "AGPL-3.0-only",
+  "license": "MPL-2.0",
   "files": [
     "**/*.{js,mjs,cjs,map,d.ts,html,md}",
     "!demo/**/*"

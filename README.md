@@ -59,4 +59,4 @@ Contributions are welcome! Please read our [contribution guidelines](https://git
 
 ### License
 
-This project is licensed under the [AGPL-3.0 License](LICENSE).
+This project is licensed under the [MPL-2.0 License](LICENSE).

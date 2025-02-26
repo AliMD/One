@@ -3,7 +3,7 @@
   "description": "Alwatr Ecosystem",
   "repository": "https://github.com/Alwatr/alwatr",
   "author": "S. Ali Mihandoost <ali.mihandoost@gmail.com> (https://ali.mihandoost.com)",
-  "license": "AGPL-3.0-only",
+  "license": "MPL-2.0",
   "type": "module",
   "private": true,
   "engines": {
