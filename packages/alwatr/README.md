@@ -25,7 +25,7 @@ import { anotherFunction } from 'alwatr/flux';
 
 ## v2 Breaking Changes
 
-- **Exports all alwatr ecosystem packages as a single `alwatr` npm package.** This significantly changes how you install and import alwatr packages. 
+- **Exports all alwatr ecosystem packages as a single `alwatr` npm package.** This significantly changes how you install and import alwatr packages.
 
 Instead of installing individual packages like `@alwatr/resolve-url`, you now install the `alwatr` package:
 
@@ -52,8 +52,6 @@ This major release streamlines the alwatr ecosystem and improves the developer e
 ## Sponsors
 
 The following companies, organizations, and individuals support Nitrobase ongoing maintenance and development. Become a Sponsor to get your logo on our README and website.
-
-[![Exir Studio](https://avatars.githubusercontent.com/u/181194967?s=200&v=4)](https://exirstudio.com)
 
 ### Contributing
 
