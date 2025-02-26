@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.10.0](https://github.com/Alwatr/alwatr/compare/v3.9.0...v3.10.0) (2025-02-26)
+
+### Features
+
+* update @alwatr/nanotron to v4.9.0 and @alwatr/nitrobase to v7.7.0 ([24aa049](https://github.com/Alwatr/alwatr/commit/24aa0491375207f32d2cad3967483e901e82634d)) by @alimd
+
+### Miscellaneous Chores
+
+* clean up CHANGELOG and README files by removing outdated entries ([9d53ba3](https://github.com/Alwatr/alwatr/commit/9d53ba38c7476dab07c48879b3f52ef69b75e5c6)) by @alimd
+* downgrade version from 4.0.0 to 3.9.0 in lerna.json and alwatr/package.json ([5c6033f](https://github.com/Alwatr/alwatr/commit/5c6033fa650adceb7fc2bbeeabaa303b72a6bced)) by @
+* update project license from AGPL-3.0 to MPL-2.0 in README and package.json files ([6913eba](https://github.com/Alwatr/alwatr/commit/6913eba53d2ecf3a7a4ce8fb2407511f564b8bb3)) by @alimd
+
 ## [3.9.0](https://github.com/Alwatr/alwatr/compare/v3.8.0...v3.9.0) (2025-02-18)
 
 ### Features
