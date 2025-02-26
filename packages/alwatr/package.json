@@ -99,8 +99,8 @@
   "dependencies": {
     "@alwatr/flux": "^4.0.3",
     "@alwatr/nanolib": "^5.4.0",
-    "@alwatr/nanotron": "^4.8.1",
-    "@alwatr/nitrobase": "^7.5.8"
+    "@alwatr/nanotron": "^4.9.0",
+    "@alwatr/nitrobase": "^7.7.0"
   },
   "devDependencies": {
     "@alwatr/nano-build": "^5.4.0",
