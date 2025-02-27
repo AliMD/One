@@ -35,14 +35,14 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: 🏗 Initialize CodeQL
-        uses: github/codeql-action/init@v3.28.9
+        uses: github/codeql-action/init@v3.28.10
         with:
           languages: ${{ matrix.language }}
           # Details on CodeQL's query packs refer to : https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#using-queries-in-ql-packs
           # queries: security-extended,security-and-quality
 
       - name: 🏗 Auto build
-        uses: github/codeql-action/autobuild@v3.28.9
+        uses: github/codeql-action/autobuild@v3.28.10
 
       - name: 🚀 Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v3.28.9
+        uses: github/codeql-action/analyze@v3.28.10
